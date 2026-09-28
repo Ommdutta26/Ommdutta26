@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Omm Dutta - AI/ML, GenAI and Full Stack Developer" width="100%"/>
+<img src="./banner.svg" alt="Omm Dutta - AI/ML, GenAI and Full Stack Developer" width="100%"/>
 
 <a href="https://github.com/Ommdutta26">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=760&height=45&lines=Building+AI-powered+systems+and+intelligent+agents;RAG+%C2%B7+Multi-Agent+%C2%B7+LangGraph+%C2%B7+LLM+Apps;Production-ready+full-stack+applications;Building+%E2%86%92+Learning+%E2%86%92+Shipping" alt="Typing SVG" />
