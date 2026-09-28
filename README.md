@@ -10,7 +10,7 @@ Building **AI-powered systems, intelligent agents, and production-ready full-sta
   <a href="https://github.com/Ommdutta26">
     <img src="https://img.shields.io/badge/GitHub-Ommdutta26-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/omm-dutta-0170922a4">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
